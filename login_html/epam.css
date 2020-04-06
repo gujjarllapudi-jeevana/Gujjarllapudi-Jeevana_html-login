@@ -1,0 +1,44 @@
+.main{
+    margin-left:400px;
+    margin-top: 100px;
+    width:500px;
+    height:550px;
+}
+.signin{
+    background-color:SkyBlue;
+    color:White;
+    text-align: center;
+    }
+.buttons{
+  background-color:SkyBlue;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+#checkoutField {
+  height: 40px;
+  width:490px;
+  margin-top: 10px;
+  margin-left: 10px;
+    border: 1px solid #e6e6e6;
+  background: #f5f5f5 url("envelope.png");
+  background-size:30px;
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+}
+#password{
+  height: 40px;
+  width:490px;
+  margin-top: 10px;
+  margin-left: 10px;
+  border: 1px solid #e6e6e6;
+  background: #f5f5f5 url("unlock.png");
+  background-size:30px;
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+}
